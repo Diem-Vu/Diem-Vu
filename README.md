@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Diem-Vu - a software engineering student who seeking for Entry-Level Job opportunity
+- 👀 I’m interested in software programming and developing
+- 🌱 I’m currently learning Java, Python, JavaScript
+- 📫 You can reach me at diem4work@gmail.com
